@@ -6,6 +6,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #dadfe8;
 }
 
 .pokedex {
